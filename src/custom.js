@@ -1,0 +1,3 @@
+function showDiv() {
+  $("#loader").show();
+}
